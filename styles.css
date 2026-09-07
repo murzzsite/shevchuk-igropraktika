@@ -255,7 +255,7 @@ h3 { font-size: 1.25rem; }
 
 /* REVIEWS */
 .reviews { padding: 88px 0; }
-.reviews-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.reviews-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
 .review {
   background: var(--surface);
   border: 1px solid var(--border);
