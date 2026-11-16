@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /scripts.html
+Disallow: /outreach.html
+Disallow: /materials.html
+
+Sitemap: https://elena-shevchuk.ru/sitemap.xml
